@@ -1,3 +1,6 @@
+#Ryan McArthur and Mitch Finzel
+
+
 #borrowed this fib function from https://gist.github.com/kyanny/2026028
 
 defmodule Fib do
